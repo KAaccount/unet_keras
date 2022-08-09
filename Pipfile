@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+image-classifiers = "==1.0.0"
+efficientnet = "==1.0.0"
+Keras-Applications = "<=1.0.8,>=1.0.7"
+
+[requires]
+python_version = "3.6"
